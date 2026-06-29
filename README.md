@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 A simple Tic Tac Toe game built with React and Vite.
-
+I found this old project from when I was learning React, so I thought I’d push it to GitHub.
 ## Features
 
 - Two-player X and O gameplay
