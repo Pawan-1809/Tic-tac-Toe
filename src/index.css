@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@theme {
+  --color-cyan: #26ffcb;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(32, 41, 40);
+}
